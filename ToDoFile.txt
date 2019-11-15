@@ -1,0 +1,3 @@
+vacuum,high
+walk dog,low
+vacuum,high
